@@ -1,11 +1,6 @@
-<!--
 **panjiekasukmana/panjiekasukmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align="center">
-	<br>
-		<img src="giphy.gif" width="400px">
-	<br>
-</div>
+<img src="https://64.media.tumblr.com/4c6f8947a5ec4110054a1221370bab72/tumblr_paf9u2zFOp1qeyvpto1_500.gifv" alt="Mokkapps GitHub README header image">
 
 ### Hi Dudes 👋
 I’m very interest with Automation and Manual Testing phase, Having knowledge about Cucumber Selenium JAVA for WEB Automation, API Testing using Postman, and Cucumber Serenity BDD with Rest Assured, Mobile Testing (Android) using Cucumber Appium JAVA, Performance Testing using Jmeter.
