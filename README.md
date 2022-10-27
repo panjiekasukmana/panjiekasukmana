@@ -1,5 +1,3 @@
-**panjiekasukmana/panjiekasukmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
   <a href="https://i.gifer.com/Z5aE.gif">
     <img src="https://github.com/panjiekasukmana/panjiekasukmana/blob/main/Z5aE.gif?sanitize=true">
